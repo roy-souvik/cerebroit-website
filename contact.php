@@ -51,7 +51,7 @@
 				  <strong>We're on social networks</strong><br>
              	<ul class="company-social">
                   <li class="social-facebook"><a href="https://www.facebook.com/cerebroiting" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                  <!-- <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li> -->
+                  <li class="social-twitter"><a href="https://www.twitter.com/CerebroitS" target="_blank"><i class="fa fa-twitter"></i></a></li>
                   <!-- <li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li> -->
                   <!-- <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li> -->
               </ul>
