@@ -28,7 +28,7 @@
 				<div class="col-sm-12">
 					<p>
 						Cerebroit services is a Kolkata based company .We are software and service Provider Company founded in the year 2018.
-						We believe that the key to our business is our product and user friendly services. Our motto is to maintain transparency between our business partners and customers. We try to bring all yours needs at your doorstep by just booking our services.
+						We believe that the key to our business is our product and user friendly services. Our motto is to maintain transparency between our business partners and customers. We try to bring all your needs at your doorstep by just booking our services.
 						We are a startup company looking to engage in software and internet business. Website and application development is a basic part of our work.
 					</p>
 				</div>
