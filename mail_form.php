@@ -1,18 +1,20 @@
-<form id="contact-form" method="POST" action="#">
+<!-- <form id="contact-form" method="POST" action="#"> -->
+<form id="contact-form" action="https://formspree.io/cerebroiting@gmail.com" method="POST" />
 <div class="row">
 	<div class="col-md-6">
 		<div class="form-group">
 			<label for="name">
 				Name</label>
-			<input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
+			<input type="text" class="form-control" id="name" name="name" placeholder="Enter name" required="required" />
 		</div>
 		<div class="form-group">
 			<label for="email">
 				Email Address</label>
 			<div class="input-group">
-				<span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
+				<span class="input-group-addon">
+				<span class="glyphicon glyphicon-envelope"></span>
 				</span>
-				<input type="email" class="form-control" id="email" placeholder="Enter email" required="required" /></div>
+				<input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required="required" /></div>
 		</div>
 		<div class="form-group">
 			<label for="subject">
@@ -35,9 +37,9 @@
 		</div>
 	</div>
 	<div class="col-md-12">
-		<div class="col-lg-2 col-lg-offset-7 mail_loader_holder">
+		<!-- <div class="col-lg-2 col-lg-offset-7 mail_loader_holder">
 			<img alt="Loading." id="mail_send_loader" src="img/loader.gif"/>
-		</div>
+		</div> -->
 		<button type="submit" class="btn btn-skin pull-right" id="btnContactUs">Send Message</button>
 	</div>
 </div>
